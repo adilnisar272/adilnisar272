@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @adilnisar272
+- 👋 Hi, I’m Adil Nisar
 - 👀 I’m interested in different framewroks for back and javascript libraries.
+- I have 3+ years of experience in web development and integrations.
 - 🌱 I’m currently learning node js
 - 💞️ I’m looking to collaborate on python 
 - 📫 How to reach me cell: +9230240099449
