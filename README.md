@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adil Nisar</h1>
-<h3 align="center">Full Stack Developer | Software Engineer | Lahore, Pakistan 🇵🇰</h3>
+<h3 align="center">Full Stack Developer · Software Engineer · Lahore, Pakistan 🇵🇰</h3>
 
 <p align="center">
-  I build practical, scalable web applications — from responsive user interfaces to backend services, REST APIs, and database-driven systems.
+  I build and maintain web applications, APIs, and data-driven products — turning business requirements into practical software.
 </p>
 
 <p align="center">
@@ -21,14 +21,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack Developer with professional experience building and maintaining web applications, backend services, and API-driven products. I enjoy solving business problems with clean, maintainable code and continuously improving the way software is designed, developed, and delivered.
+I'm a Full Stack Developer with professional experience delivering and maintaining web applications across software services, e-commerce, business platforms, and AI-focused product environments. I enjoy solving practical problems with maintainable code, thoughtful database design, and reliable APIs.
 
-- 💼 **Professional experience:** Full Stack development across software services, e-commerce, and AI-focused product environments.
-- 🔧 **Backend:** PHP, Laravel, CodeIgniter, Node.js, REST APIs, MVC, and database design.
-- 🎨 **Frontend:** JavaScript, TypeScript, React, Next.js, Vue.js, HTML, CSS, and Bootstrap.
-- ☁️ **Tools & delivery:** Git, Docker, AWS, CI/CD, and collaborative development workflows.
-- 🌱 **Currently exploring:** AI/ML, Web3 and blockchain integrations, and modern Node.js capabilities.
-- 🌍 **Currently building:** [ISM](https://ism.bible/).
+- 💼 **Experience:** Full Stack development at Techmate Technologies LLC, COMPUTAN Solution Ltd, Programmers Force, and VU Software House.
+- 🔧 **Backend:** PHP, Laravel, CodeIgniter, Node.js, REST APIs, GraphQL, MVC, and database design.
+- 🎨 **Frontend:** JavaScript, TypeScript, React, Next.js, Vue.js, HTML5, CSS3, Bootstrap, and jQuery.
+- 🗄️ **Data:** MySQL, PostgreSQL, MongoDB, Redis, MariaDB, and SQL Server.
+- ☁️ **Cloud & workflow:** AWS services, AWS S3, Google APIs, Git, Docker, and CI/CD workflows.
+- 🌱 **Exploring:** AI/ML, Web3, blockchain integrations, and modern Node.js capabilities.
+- 🌍 **Current work:** [TechMateTech](https://techmatetech.com/).
 - ✍️ **Writing:** [Medium](https://medium.com/@adilnisar272).
 - 📍 **Based in:** Lahore, Pakistan.
 
@@ -41,13 +42,15 @@ I'm a Full Stack Developer with professional experience building and maintaining
 - Build RESTful and GraphQL APIs to connect frontend and backend systems.
 - Design and optimize relational and NoSQL data models, including MySQL, PostgreSQL, and MongoDB.
 - Contribute to web, mobile, AI, CRM, ERP, AWS, and e-commerce solutions in a software services environment.
+- Work across multiple client products and business domains; selected public-facing projects are listed below.
 
 ### Full Stack Developer — COMPUTAN Solution Ltd
 **December 2020 – May 2022** · Lahore, Pakistan
 
-- Worked across MVC applications, SQL Server, HTML5, CSS3, JavaScript, and jQuery.
+- Worked with MVC applications, SQL Server, HTML5, CSS3, JavaScript, and jQuery.
 - Contributed to WordPress plugin and theme customization.
 - Integrated Google APIs and AWS S3 into web solutions.
+- Contributed to the **AMG Funds** project during this role.
 
 ### Full Stack Developer — Programmers Force
 **July 2020 – January 2021** · Lahore, Pakistan
@@ -55,6 +58,7 @@ I'm a Full Stack Developer with professional experience building and maintaining
 - Developed user interfaces using Vue.js and Bootstrap.
 - Worked with MySQL, PostgreSQL, and Redis data structures.
 - Built Laravel functionality and maintained REST APIs.
+- Contributed to multiple confidential projects; client and product details are intentionally not disclosed.
 
 ### Full Stack Developer — VU Software House (DEEN.PK)
 **April 2019 – May 2020** · Lahore, Pakistan
@@ -62,25 +66,61 @@ I'm a Full Stack Developer with professional experience building and maintaining
 - Worked on an Islamic application featuring prayer times, Qibla direction, alerts, and Qaza/Kafara reminders.
 - Contributed to MVC-based development using PHP, Laravel, SQL Server, JavaScript, jQuery, HTML, and CSS.
 
-## 🚀 Selected Projects
+## 🚀 Selected Projects & Product Contributions
 
-### [ISM](https://ism.bible/) · Current project
-Building and contributing to an online product. See the project website for its current scope and features.
+The projects below represent products I have worked on through my professional roles. Public website descriptions are included only to give visitors context; my contributions are summarized from my résumé and the experience details above. Technologies are not attributed to individual projects unless specifically documented.
 
-### SHAOUR — Online Tuition System
-**September 2019 – April 2020**
+### Techmate Technologies LLC · May 2022 – Present
 
-An online learning platform concept where students can register, post homework or assignments, and connect with teachers for subject-specific online sessions. The platform supports paid sessions, with teachers compensated for sessions delivered.
+| Project | Product / domain | Project context |
+|---|---|---|
+| **Churchbase** | [churchbase.com](https://churchbase.com) | Church and ministry engagement platform. |
+| **RadioBase** | [radiobase.com](https://radiobase.com) | RadioBase web product. |
+| **ISM** | [ism.bible](https://ism.bible) | Scripture and Bible-focused digital platform. |
+| **Chefpost** | [chefpost.com](https://chefpost.com) | Marketplace for discovering and booking personal chefs. |
+| **Mike Ferry** | [mikeferry.com](https://www.mikeferry.com/) | Real-estate coaching, training, and business resources. |
+| **Numbers Analyzer** | [na2.mikeferry.com](https://na2.mikeferry.com/) | Numbers Analyzer account portal. |
+| **Vistamark** | [vistamark.com](https://vistamark.com) | Investment advisory and wealth-management website. |
 
-### C-Basket — Online Grocery Store (UAE)
-**June 2020 – July 2020**
+**My work across Techmate projects included:**
+- Developing and maintaining backend application functionality and server-side systems.
+- Building and integrating RESTful / GraphQL APIs between frontend and backend services.
+- Working with relational and NoSQL data models and optimizing database-backed features.
+- Supporting web and mobile product development across different business domains.
 
-An e-commerce grocery store built for the Middle East market, with Stripe payment gateway integration. The résumé lists Bootstrap 4 and HTML5 on the frontend and PHP/Laravel on the backend.
+### COMPUTAN Solution Ltd · December 2020 – May 2022
+
+| Project | Product / domain | Project context |
+|---|---|---|
+| **AMG Funds** | [amgfunds.com](https://amgfunds.com/) | AMG Funds digital platform. |
+| **GUIDANCE RESIDENTIAL** | [guidanceresidential.com](https://www.guidanceresidential.com/) | Guidance Residential, a leader in Islamic finance. |
+
+
+**Relevant role experience:** MVC application development, SQL Server, JavaScript/jQuery, WordPress plugin and theme customization, Google API integrations, and AWS S3. These are responsibilities from my COMPUTAN role and are not intended as a project-by-project technology claim.
+
+### Programmers Force · July 2020 – January 2021
+
+**Confidential client and product work**
+
+I contributed to multiple projects whose details are confidential. My résumé documents work involving Vue.js and Bootstrap interfaces, Laravel development, REST APIs, MySQL, PostgreSQL, and Redis. Project names and client information are omitted in respect of confidentiality.
+
+### VU Software House · April 2019 – May 2020
+
+**DEEN.PK — Islamic application**
+
+An Islamic application with prayer-time information, Qibla direction, alerts, and Qaza/Kafara reminders. I also built an Islamic app in this product category as an alternative to established apps such as Islam360.
+
+**Documented technologies:** PHP, Laravel, MVC, SQL Server, JavaScript, jQuery, HTML5, and CSS3.
+
+### Earlier personal projects
+
+- **SHAOUR — Online Tuition System** · September 2019 – April 2020: An online learning platform where students could register, post homework or assignments, and connect with teachers for subject-specific paid online sessions.
+- **C-Basket — Online Grocery Store (UAE)** · June 2020 – July 2020: An online grocery store for the Middle East market with Stripe payment gateway integration. The résumé lists Bootstrap 4 and HTML5 on the frontend and PHP/Laravel on the backend.
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,vue,nodejs,express,html,css,tailwind,bootstrap,mysql,postgres,mongodb,redis,docker,aws,git,github,githubactions,vscode,figma,solidity" alt="Technology stack" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,vue,nodejs,express,html,css,tailwind,bootstrap,mysql,postgres,mongodb,redis,docker,aws,git,github,githubactions,vscode,figma,solidity" alt="Technology stack: PHP, Laravel, JavaScript, TypeScript, React, Next.js, Vue.js, Node.js, Express, HTML, CSS, Tailwind, Bootstrap, MySQL, PostgreSQL, MongoDB, Redis, Docker, AWS, Git, GitHub Actions, VS Code, Figma, and Solidity" />
 </p>
 
 ### Also familiar with
@@ -90,20 +130,23 @@ An e-commerce grocery store built for the Middle East market, with Stripe paymen
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=adilnisar272&theme=tokyonight" alt="Adil's GitHub statistics" />
+  <a href="https://github.com/adilnisar272">
+    <img src="https://github-readme-stats.vercel.app/api?username=adilnisar272&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Adil's GitHub statistics" height="180" />
+  </a>
+  <a href="https://github.com/adilnisar272">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilnisar272&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used programming languages" height="180" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://ghstats.dev/api/langs?username=adilnisar272&layout=compact&max_langs=8&theme=tokyonight" alt="Most used programming languages" />
+  <a href="https://github.com/adilnisar272?tab=repositories">Browse my repositories →</a>
+  ·
+  <a href="https://github.com/adilnisar272?tab=stars">Repositories I've starred →</a>
+  ·
+  <a href="https://github.com/adilnisar272/">View my contribution calendar →</a>
 </p>
 
-<p align="center">
-  <img src="https://ghstats.dev/api/sparkline?username=adilnisar272&days=30&width=420" alt="GitHub contribution activity over the last 30 days" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/adilnisar272?tab=repositories">Explore my repositories →</a>
-</p>
+> GitHub statistic cards are provided by a community-hosted service and may occasionally be rate-limited or unavailable. The repository and contribution links above remain available directly on GitHub.
 
 ## 🎓 Education
 
