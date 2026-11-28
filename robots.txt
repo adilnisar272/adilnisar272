@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adilnisar272.github.io/adil-dev-portfolio/sitemap.xml
